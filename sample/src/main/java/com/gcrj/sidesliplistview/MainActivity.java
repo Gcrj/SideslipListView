@@ -8,8 +8,8 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Toast;
 
-import com.gcrj.library.SideslipItemLayout;
-import com.gcrj.library.SideslipListView;
+import com.gcrj.sidesliplistviewlibrary.SideslipItemLayout;
+import com.gcrj.sidesliplistviewlibrary.SideslipListView;
 
 import java.util.ArrayList;
 import java.util.Arrays;

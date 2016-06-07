@@ -1,4 +1,4 @@
-package com.gcrj.library;
+package com.gcrj.sidesliplistviewlibrary;
 
 import android.support.annotation.Nullable;
 import android.view.View;
